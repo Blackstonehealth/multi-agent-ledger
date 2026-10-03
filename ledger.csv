@@ -1,0 +1,3 @@
+Task,Owner,Boundary,Cadence,Status,Result
+"Summarize the newest post at the source URL into a file named dispatch_test.txt",Builder,"Read and write that file only. Do not send, post, pay, or delete.",One-off,in progress,"Waiting on the file path. Not done until you open the file."
+"Daily content video",Front door,"Produce and post. Disclosure on every post. New platforms need a yes. Stop at 80 percent of any metered spend this lane can trigger.",Daily,active,"Link opened by you on the last run."

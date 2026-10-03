@@ -1,0 +1,6 @@
+Task,Owner,Boundary,Cadence,Status,Result
+"Draft the pricing page copy from notes/pricing.md",Front door,"Draft only. Do not publish, send, pay, or delete.",One-off,done,"Opened drafts/pricing-v1.md on Tue. Approved with one headline edit."
+"Build the pricing page from the approved copy",Builder,"Edit the site repo on a branch only. No deploy. Stop if the run would cross the per-run cap.",One-off,in progress,"Waiting on the preview link. Not done until I open it."
+"Research three payment processors and fees for a one-person company",Research agent,"Read and report. Do not sign up or contact anyone.",One-off,pending,"Due Friday. Report goes in research/payments.md."
+"Weekly bookkeeping export",Builder,"Read-only access to the bank export folder. Write one summary file. Do not pay or move money. Stop at 80 percent of the weekly allowance.",Weekly,active,"Last run: opened books/2026-w40.csv."
+"Call the venue about the meetup date",Phone concierge,"Ask about two dates only. Do not book or pay. Draft a summary of the call.",One-off,blocked,"Waiting on the venue phone number from me."

@@ -1,0 +1,6 @@
+Task,Owner,Boundary,Cadence,Status,Result
+"Client A: first draft of the onboarding email sequence",Front door,"Draft only. Client data stays in this row's folder. Do not send.",One-off,done,"Opened clientA/onboarding-v1.docx. Sent to client by me."
+"Client A: build the landing page from the approved copy",Builder,"Staging only. No deploy, no DNS changes. Stop if the run would cross the per-run cap.",One-off,in progress,"Waiting on the staging link and a screenshot."
+"Client B: competitor research summary",Research agent,"Public sources only. Do not contact anyone. No client logins.",One-off,pending,"Due Wednesday."
+"Weekly client status notes",Front door,"Draft one note per client from the ledger. I send them. Stop at 80 percent of the weekly allowance.",Weekly,active,"Opened last Friday's drafts."
+"Client B: landing page build",Builder,"Fallback for this cycle only: if blocked more than 24 hours, Front door may run it. Log the flip here. Stop if the run would cross the per-run cap.",Weekly,blocked,"Waiting on brand files from Client B."
